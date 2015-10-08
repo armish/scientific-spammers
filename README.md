@@ -1,4 +1,4 @@
-# scientific-spammers
+# Scientific spammers
 A shared blacklist of e-mail addresses that spams scientists via exploiting the corespondance address of an article.
 The most important criteria for an e-mail address to be included in this list is that e-mails from these addresses do not have an unsubscribe link or instructions on how to unsubscribe.
 
@@ -12,3 +12,4 @@ You can contribute by either adding a new entitiy to the following list or upvot
 | invitation@iarianews.org | Conference | ALLDATA, KESA 2016 | 1 |
 | Editor.jtse@omicsonline.net | Journal | Omics International | 1 |
 | proteomics@austinpublishinggroup.us | Journal | Austin Proteomics | 1 |
+| ucpress@sci.scientific-direct.net | Journal | Collabra | 1 |
