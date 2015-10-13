@@ -11,6 +11,7 @@ You can contribute by either adding a new entitiy to the following list or upvot
 | editor.biochemistry@omicsinc.com | Journal | Biochemistry & Analytical Biochemistry | 1 |
 | invitation@iarianews.org | Conference | ALLDATA, KESA 2016 | 1 |
 | Editor.jtse@omicsonline.net | Journal | Omics International | 1 |
+| genomicmedicine@openaccessjournals.com | Journal | Omics International | 1 |
 | proteomics@austinpublishinggroup.us | Journal | Austin Proteomics | 1 |
 | ucpress@sci.scientific-direct.net | Journal | Collabra | 1 |
 | chris01@2016cancer.com | Conference | WCC Korea | 1 |
