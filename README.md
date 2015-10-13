@@ -13,3 +13,5 @@ You can contribute by either adding a new entitiy to the following list or upvot
 | Editor.jtse@omicsonline.net | Journal | Omics International | 1 |
 | proteomics@austinpublishinggroup.us | Journal | Austin Proteomics | 1 |
 | ucpress@sci.scientific-direct.net | Journal | Collabra | 1 |
+| chris01@2016cancer.com | Conference | WCC Korea | 1 |
+| editorsjab@gmail.com | Journal | Journal of Advances in Biology | 1 |
