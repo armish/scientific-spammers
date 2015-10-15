@@ -16,3 +16,6 @@ You can contribute by either adding a new entitiy to the following list or upvot
 | ucpress@sci.scientific-direct.net | Journal | Collabra | 1 |
 | chris01@2016cancer.com | Conference | WCC Korea | 1 |
 | editorsjab@gmail.com | Journal | Journal of Advances in Biology | 1 |
+| oliver.smith@mnmconferences.com | Conference | MnM Conferences | 1 |
+| Proteomics@scireslit.net | Journal | SciRes Literature | 1 |
+| ben@shenkentz.com | Recruitment | Shen Kentz | 1 |
