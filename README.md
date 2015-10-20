@@ -19,3 +19,4 @@ You can contribute by either adding a new entitiy to the following list or upvot
 | oliver.smith@mnmconferences.com | Conference | MnM Conferences | 1 |
 | Proteomics@scireslit.net | Journal | SciRes Literature | 1 |
 | ben@shenkentz.com | Recruitment | Shen Kentz | 1 |
+| editor.pharmacology@clinmedlib.org | Journal |  ClinMed International Library | 1 |
