@@ -9,6 +9,7 @@ You can contribute by either adding a new entitiy to the following list or upvot
 | E-mail address | Origin | Comment | Vote | 
 | -------------- | ------ | ------- | ---- |
 | editor.biochemistry@omicsinc.com | Journal | Biochemistry & Analytical Biochemistry | 1 |
+| editor.jom@omicsinc.com | Journal | Metabolomics: Open Access | 1 |
 | invitation@iarianews.org | Conference | ALLDATA, KESA 2016 | 1 |
 | Editor.jtse@omicsonline.net | Journal | Omics International | 1 |
 | genomicmedicine@openaccessjournals.com | Journal | Omics International | 1 |
