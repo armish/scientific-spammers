@@ -24,3 +24,6 @@ You can contribute by either adding a new entitiy to the following list or upvot
 | bioinfopro@jacobspublishers.org | Journal | Jacobs Journal of Bioinformatics and Proteomics | 1 |
 | support@trialect.com | Internship | Trialect | 1 |
 | integrativebiology@omicsgroup.com | Seminar | International Conference on Integrative Biology | 1 |
+| eccb@congressbydesign.com | Conference | ECCB 2016 | 1 |
+| editorialoffice.iacp@clinmedlib.com | Journal |  International Archives of Clinical Pharmacology | 1 |
+
