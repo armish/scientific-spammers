@@ -26,4 +26,5 @@ You can contribute by either adding a new entitiy to the following list or upvot
 | integrativebiology@omicsgroup.com | Seminar | International Conference on Integrative Biology | 1 |
 | eccb@congressbydesign.com | Conference | ECCB 2016 | 1 |
 | editorialoffice.iacp@clinmedlib.com | Journal |  International Archives of Clinical Pharmacology | 1 |
+| humantechnology@jyu.fi | Journal | Human Technology: An Interdisciplinary Journal on Humans in ICT Environments | 1 |
 
