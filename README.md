@@ -30,5 +30,5 @@ You can contribute by either adding a new entitiy to the following list or upvot
 | humantechnology@jyu.fi | Journal | Human Technology: An Interdisciplinary Journal on Humans in ICT Environments | 1 |
 | cancer@austinpublications.org | Journal | Austin Proteomics | 1 |
 | wspc_jnls@wspc.com | Journal | WSPC Journal | 1 |
-| information-science@thescientificpages.org | Journal | The Scientific Pages of Information Science | 1 |
+| information-science@thescientificpages.org | Journal | The Scientific Pages of Information Science | 2 |
 
